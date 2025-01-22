@@ -23,15 +23,7 @@ Finance Tracker is a simple and intuitive tool to help you manage your expenses,
   - `collections` for organizing and grouping data
   - `datetime` and `calendar` for date and budget calculations
 
-## Project Structure
 
-finance-tracker/
-|-- app.py              # Flask web application
-|-- expense.py          # Defines the Expense class
-|-- expense_tracker.py  # CLI-based tracker
-|-- expenses.csv        # Stores expense data
-|-- templates/          # HTML templates for Flask
-    |-- index.html      # Web application interface
 
 
 
